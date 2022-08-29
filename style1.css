@@ -1,0 +1,27 @@
+.error {
+    display: block;
+}
+
+#klientt{
+    display: block;
+    margin-bottom: 10px;
+}
+.col3 input[type="button"]{
+    width: 50%;
+    color: #fff;
+}
+
+.loginFormButton {
+    text-align: center;
+    margin-top: -70px;
+
+}
+.loginFormButton input[type="button"]{
+    width: 300px;
+    height: 30px;
+}
+.loginFormButton input[type="button"]:hover{
+    color: blue;
+    transition: all 2s ease;
+    background-color: greenyellow;
+}
